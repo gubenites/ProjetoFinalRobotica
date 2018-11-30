@@ -1,0 +1,5 @@
+Meu projeto final na materia de robotica computacional foi um código de otimização por gradiente de uma rede 
+neural(com aproximadamente 200 neuronios--momento de execução do mesmo) aplicada no jogo do pacman.
+
+Para rodar o mesmo, deve dentro de eu prompt de comando, achar o diretorio da folder em que há os arquivos do meu
+projeto final, logo após rodar o arquivo rodar.py que o processo sera 100% automatico logo após.
